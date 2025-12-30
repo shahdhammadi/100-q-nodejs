@@ -1,0 +1,1 @@
+userSchema.index({ email: 1, createdAt: -1 });
